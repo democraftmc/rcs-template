@@ -1,0 +1,14 @@
+{
+  "main": "fr.democraft.rcs.template.ExampleServerProvider$Builder",
+  "name": "HelloWorld",
+  "description": "Simple HelloWorld module. Usless, unless you are a developer!",
+  "environments": [
+    "proxy"
+  ],
+  "dependencies": [
+    "Smart"
+  ],
+  "sharedPackages": [
+    "fr.democraft.rcm.smart"
+  ]
+}
